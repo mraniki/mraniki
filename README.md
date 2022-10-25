@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mraniki
 - 👀 I’m interested in algotrading, 
 - 🌱 I’m currently learning mql, pinescript and python
-- 📫 Reach out on twittertwi @mraniki
+- 📫 Reach out on twitter @mraniki
 
 <!---
 mraniki/mraniki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
