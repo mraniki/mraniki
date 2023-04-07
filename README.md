@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @mraniki
-- 👀 I’m interested in algotrading, I’m learning mql, pinescript and python.
+- 👀 I’m interested in algotrading,defi
+-  I’m learning mql, pinescript and python.
 - 📫 Reach out on [![twitter](https://badgen.net/badge/icon/mastodon/purple?icon=mastodon&label)](@MrAniki@mastodon.social)
 
 
