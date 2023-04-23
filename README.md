@@ -3,7 +3,7 @@
 -  I’m learning mql, pinescript and python.
 - 📫 Reach out on [![mastodon](https://badgen.net/badge/icon/mastodon/purple?icon=mastodon&label)](@MrAniki@mastodon.social)
 
-
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=mraniki">
 
 <!---
 mraniki/mraniki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
