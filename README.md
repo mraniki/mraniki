@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @mraniki
-- 👀 I’m interested in algotrading,defi, continous integration and continous deployment
--  I’m learning mql, pinescript and python.
+- 👀 interested in algotrading,defi, continous integration and continous deployment
 - 📫 Reach out on [![mastodon](https://badgen.net/badge/icon/mastodon/purple?icon=mastodon&label)](@MrAniki@mastodon.social)
 
 ![Metrics](/github-metrics.svg)
