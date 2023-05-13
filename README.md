@@ -2,6 +2,7 @@
 - 📫 Reach out on [![mastodon](https://badgen.net/badge/icon/mastodon/purple?icon=mastodon&label)](@MrAniki@mastodon.social)
 
 ![Metrics](/github-metrics.svg)
+![Metrics](/metrics.plugin.topics.icons.svg)
 
 <!---
 mraniki/mraniki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
