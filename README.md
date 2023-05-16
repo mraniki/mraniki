@@ -1,4 +1,4 @@
-| [![GitHub stats](https://github-readme-stats.vercel.app/api?username=mraniki&show_icons=true&theme=dracula)](https://github.com/mraniki/github-readme-stats) |
+| [![GitHub stats](https://github-readme-stats.vercel.app/api?username=mraniki&show_icons=true&theme=dracula)](https://github.com/mraniki/) |
 | ------------- | 
 | 👀 interested in algotrading,defi, continous integration and continous deployment
 📫 Reach out on [![mastodon](https://badgen.net/badge/icon/mastodon/purple?icon=mastodon&label)](@MrAniki@mastodon.social)  | 
