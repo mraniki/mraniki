@@ -3,10 +3,6 @@
 
 ![Metrics](/github-metrics.svg)
 
-![Metrics](/metrics.plugin.topics.icons.svg)
-
-![Metrics](/metrics.plugin.topics.svg)
-
 ![Metrics](/metrics.plugin.habits.facts.svg)
 <!---
 mraniki/mraniki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
