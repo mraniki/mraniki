@@ -1,15 +1,15 @@
-| [![GitHub stats](https://github-readme-stats.vercel.app/api?username=mraniki&show_icons=true&theme=dracula)](https://github.com/mraniki/) |
-| ------------- | 
-| 👀 interested in algotrading,defi, continous integration and continous deployment
-📫 Reach out on [![mastodon](https://badgen.net/badge/icon/mastodon/purple?icon=mastodon&label)](@MrAniki@mastodon.social)  | 
-
-
-
+👀 interested in algotrading,defi, continous integration and continous deployment <br>
+📫 Reach out on [![mastodon](https://badgen.net/badge/icon/mastodon/purple?icon=mastodon&label)](@MrAniki@mastodon.social) 
+<br>
 
 ![Metrics](/github-metrics.svg)
 
+<details>
+<summary>📈 More Stats</summary>
 ![Metrics](/metrics.plugin.habits.facts.svg)
-<!---
-mraniki/mraniki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mraniki&theme=dracula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mraniki&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mraniki&theme=dracula)
+
+</details>
