@@ -1,4 +1,4 @@
-👀 interested in algotrading,defi, continous integration and continous deployment <br>
+👀 interested in algotrading,defi, continous integration and devops <br>
 📫 Reach out on [![mastodon](https://badgen.net/badge/icon/mastodon/purple?icon=mastodon&label)](@MrAniki@mastodon.social) 
 <br>
 
