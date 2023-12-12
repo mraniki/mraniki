@@ -20,6 +20,7 @@
                             <div class="label" title="An awesome list is a list of awesome things curated by the community.">awesome lists</div>
                             <div class="label" title="A cryptocurrency is a digital currency that uses cryptography.">cryptocurrency</div>
                             <div class="label" title="Telegram is a non-profit, cloud-based instant messaging service.">telegram</div>
+                            <div class="label" title="Progressive Web Apps are traditional web sites that are enhanced with native like features.">pwa</div>
                             <div class="label" title="Artificial intelligence is the ability of a computer or machine to perform tasks commonly associated with intelligent beings.">artificial intelligence</div>
                             <div class="label" title="">github-actions</div>
                             <div class="label" title="FastAPI is a modern &amp;amp; fast web framework for building APIs with Python 3.7+ based on standard Python type hints.">fastapi</div>
@@ -27,8 +28,7 @@
                             <div class="label" title="">defi</div>
                             <div class="label" title="">chat</div>
                             <div class="label" title="Create and edit online spreadsheets.">google sheets</div>
-                            <div class="label" title="">ide</div>
-                            <div class="label" title="paas, pinescript, code-generation, jellyfin, web-archiving, market-data, cloud-management, dex, walletconnect, internet-archive, seedbox, etherscan, pypi-package, web3py, badge, talky, blockscan">and 17 more...</div>
+                            <div class="label" title="ide, paas, pinescript, code-generation, jellyfin, web-archiving, market-data, cloud-management, dex, walletconnect, internet-archive, seedbox, etherscan, pypi-package, web3py, badge, talky, blockscan">and 18 more...</div>
                         </div>
                     </section>
                 </div>
