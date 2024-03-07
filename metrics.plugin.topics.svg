@@ -22,8 +22,8 @@
                             <div class="label" title="Telegram is a non-profit, cloud-based instant messaging service.">telegram</div>
                             <div class="label" title="Progressive Web Apps are traditional web sites that are enhanced with native like features.">pwa</div>
                             <div class="label" title="Artificial intelligence is the ability of a computer or machine to perform tasks commonly associated with intelligent beings.">artificial intelligence</div>
-                            <div class="label" title="">github-actions</div>
                             <div class="label" title="FastAPI is a modern &amp;amp; fast web framework for building APIs with Python 3.7+ based on standard Python type hints.">fastapi</div>
+                            <div class="label" title="">github-actions</div>
                             <div class="label" title="Infrastructure as code is a way to manage environment packages as code instead of manual installation and mantainance.">infrastructure as code</div>
                             <div class="label" title="">defi</div>
                             <div class="label" title="">chat</div>
