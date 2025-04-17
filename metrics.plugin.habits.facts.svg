@@ -164,13 +164,13 @@
                                 Mon
                             </div>
                             <div class="entry">
-                                <span class="value">10</span>
-                                <div class="bar" style="height: 38.46153846153847px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">9</span>
+                                <div class="bar" style="height: 34.61538461538461px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 Tue
                             </div>
                             <div class="entry">
-                                <span class="value">9</span>
-                                <div class="bar" style="height: 34.61538461538461px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">10</span>
+                                <div class="bar" style="height: 38.46153846153847px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Wed
                             </div>
                             <div class="entry">
@@ -195,17 +195,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">MQL4</span>
-                                <div class="bar" style="width: 75.04011357700603%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 75.03990198794446%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">94%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 1.3974370451932439%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.397433104868811%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">MQL5</span>
-                                <div class="bar" style="width: 1.2618100841888147%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.2618065262889284%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                         </div>
